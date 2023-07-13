@@ -30,7 +30,7 @@ jobs:
         run: |
           sudo apt-get install moreutils
           sudo apt-get install imagemagick
-          sudo apt-get  snzip
+          sudo apt-get unzip
           sudo apt-get zip
           sudo apt-get nodejs
           sudo apt-get uuid-runtime

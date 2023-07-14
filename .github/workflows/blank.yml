@@ -33,7 +33,7 @@ jobs:
           
           sudo apt-get nodejs
           sudo apt-get uuid-runtime
-
+ 
           npm i -g spritesheet-js
           ./converter.sh generated.zip -w "false"
 

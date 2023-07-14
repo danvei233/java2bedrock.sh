@@ -31,7 +31,7 @@ jobs:
           sudo apt-get install moreutils
           sudo apt-get install imagemagick
           
-          sudo apt-get nodejs
+          
           sudo apt-get uuid-runtime
  
           npm i -g spritesheet-js
